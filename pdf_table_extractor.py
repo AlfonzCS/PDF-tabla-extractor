@@ -16,7 +16,7 @@ def ClownLogo():
     / ____/ /_/ / __/    / /_/ /_/ / /_/ / /  __/  /  __/>  </ /_/ /  / /_/ / /__/ /_/ /_/ / /    
    /_/   /_____/_/       \__/\__,_/_.___/_/\___/   \___/_/|_|\__/_/   \__,_/\___/\__/\____/_/     
                                                                                                
-        Nota! : Scanning Port es un escaner 100% funcional, verifique con nmap.       
+    CS! : PDF table extractor es un script simple y muy facil de usar solo extrae las tablas.       
     """
     for N, line in enumerate(x.split("\n")):
          sys.stdout.write("\x1b[1;%dm%s%s\n" % (random.choice(colors), line, clear))
