@@ -1,4 +1,4 @@
-# PDF-tabla-extractor
+# PDF_Table_Extractor
 
 ## Instalar:
 
